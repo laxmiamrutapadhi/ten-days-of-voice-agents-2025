@@ -1,8 +1,8 @@
-# AI Voice Agents Challenge - Starter Repository
+## AI Voice Agents Challenge - Starter Repository
 
 Welcome to the **AI Voice Agents Challenge** by [murf.ai](https://murf.ai)!
 
-## About the Challenge
+### About the Challenge
 
 We just launched **Murf Falcon** – the consistently fastest TTS API, and you're going to be among the first to test it out in ways never thought before!
 
@@ -14,7 +14,7 @@ We just launched **Murf Falcon** – the consistently fastest TTS API, and you'r
 - Build a voice agent with specific personas and skills
 - Post on GitHub and share with the world on LinkedIn!
 
-## Repository Structure
+### Repository Structure
 
 This is a **monorepo** that contains both the backend and frontend for building voice agent applications. It's designed to be your starting point for each day's challenge task.
 
@@ -57,7 +57,7 @@ The frontend is based on [LiveKit's agent-starter-react](https://github.com/live
 
 [→ Frontend Documentation](./frontend/README.md)
 
-## Quick Start
+### Quick Start
 
 ### Prerequisites
 
